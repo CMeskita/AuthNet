@@ -1,0 +1,7 @@
+﻿namespace AuthNet.Configuration
+{
+    public class AuthSettings
+    {
+        public string Secret { get; set; }
+    }
+}
